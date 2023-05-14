@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileSplitter": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Working\\DouluoDalu\\LuaResult.txt c:\\working\\Douluodalu\\LuaResult"
+    }
+  }
+}
